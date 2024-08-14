@@ -1,0 +1,7 @@
+void ngocdo()
+{
+}
+
+void ngoc()
+{
+}

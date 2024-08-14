@@ -1,0 +1,9 @@
+void ngocdo();
+//
+//
+//
+//
+
+//
+
+void ngoc();
