@@ -5,6 +5,15 @@ void sum()
 {
 }
 
+
+//day la code cua ngoc do
+void hehe(){
+
+    cout << "ngoc do";
+
+}
+
+
 void div()
 {
 }
