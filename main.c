@@ -5,6 +5,11 @@ void sum()
 {
 }
 
+void huong()
+{
+    cout << "huong"
+}
+
 void div()
 {
 }
