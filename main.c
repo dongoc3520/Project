@@ -5,9 +5,11 @@ void sum()
 {
 }
 
+// day la code cua ngoc do
 void huong()
 {
-    cout << "huong"
+
+    cout << "huong";
 }
 
 void div()
